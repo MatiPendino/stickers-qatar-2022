@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stickers Qatar 2022</string>
+    <string name="cerrar">CLOSE</string>
+    <string name="ayuda_3">- To see the state of your album, press the graph icon located in the app bar</string>
+    <string name="ayuda2">- To delete a card, press and hold the square of the one you want to delete</string>
+    <string name="ayuda1">- To add a card, press the square of the one you want to aggregate (you can add the amount you want)</string>
+    <string name="titulo_ayuda">Welcome to your application for checking Qatar 2022 World Cup´s album</string>
+    <string name="of"> of </string>
+    <string name="estad_album">Album stats</string>
+    <string name="fig_restantes">Cards left</string>
+    <string name="tengo">Own</string>
+    <string name="faltan">Missing</string>
+    <string name="ayuda">Help</string>
+</resources>

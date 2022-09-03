@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Figuritas Qatar 2022</string>
+    <string name="cerrar">CERRAR</string>
+    <string name="ayuda_3">- Para ver el estado de tu álbum, presiona el ícono del gráfico que se encuentra en la barra superior</string>
+    <string name="ayuda2">- Para eliminar una figurita, manten presionado el recuadro de la que desees eliminar</string>
+    <string name="ayuda1">- Para añadir una figurita, presiona el recuadro de la que quieras agregar (puedes añadir la cantidad que desees)</string>
+    <string name="titulo_ayuda">Bienvenido a tu aplicación para controlar el estado de tu álbum del mundial Qatar 2022</string>
+    <string name="of"> de </string>
+    <string name="estad_album">Estadísticas del álbum</string>
+    <string name="fig_restantes">Figuritas restantes</string>
+    <string name="tengo">Tengo</string>
+    <string name="faltan">Faltan</string>
+    <string name="ayuda">Ayuda</string>
+</resources>

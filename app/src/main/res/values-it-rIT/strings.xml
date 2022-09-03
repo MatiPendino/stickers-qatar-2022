@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stickers Qatar 2022</string>
+    <string name="cerrar">CHIUDERE</string>
+    <string name="ayuda_3">- Per vedere lo stato del tuo album, premi l\'icona del grafico nella barra in alto</string>
+    <string name="ayuda2">- Para eliminar una figurita, manten presionado el recuadro de la que desees eliminar</string>
+    <string name="ayuda1">- Para añadir una figurita, presiona el recuadro de la que quieras agregar (puedes añadir la cantidad que desees)</string>
+    <string name="titulo_ayuda">Benvenuto nella tua applicazione per controllare lo stato del tuo album della Coppa del Mondo Qatar 2022</string>
+    <string name="of"> di </string>
+    <string name="estad_album">Statistiche dell\'album</string>
+    <string name="fig_restantes">Sticker rimanenti</string>
+    <string name="tengo">Ho</string>
+    <string name="faltan">Manca</string>
+    <string name="ayuda">Aiuta</string>
+</resources>
